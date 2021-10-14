@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "start": "next start"
+  },
+  "author": "Jamie Barton",
+  "license": "MIT",
+  "dependencies": {
+    "@headlessui/react": "1.4.1",
+    "@heroicons/react": "1.0.4",
+    "@tailwindcss/forms": "0.3.4",
+    "bcryptjs": "2.4.3",
+    "classcat": "5.0.3",
+    "graphql": "15.6.0",
+    "graphql-request": "3.5.0",
+    "next": "11.1.2",
+    "next-auth": "4.0.0-next.26",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hook-form": "7.17.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.6",
+    "postcss": "^8.3.8",
+    "tailwindcss": "^2.2.16"
+  }
+}
